@@ -1,0 +1,40 @@
+
+.first{
+  margin:0;
+  padding: 100px;
+  width:800px;
+  height:200px;
+  background-color:darkblue;
+  color: white
+}
+.second{
+  padding:100px;
+  width:800px;
+  height:200px;
+  background-color:gray;
+  color:white;
+}
+
+.third{
+  padding:100px;
+  width:800px;
+  height:150px;
+  background-color:darkblue;
+  color:white;
+}
+
+.fourth{
+  padding:100px;
+  width:800px;
+  height:200px;
+  background-color:gray;
+  color:white;
+}
+
+.fifth{
+  padding: 100px;
+  width:800px;
+  height:150px;
+  background-color:darkblue;
+  color:white;
+}
