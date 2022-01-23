@@ -1,40 +1,38 @@
-
-.first{
-  margin:0;
-  padding: 100px;
-  width:800px;
-  height:200px;
-  background-color:darkblue;
-  color: white
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing: border-box;
 }
-.second{
-  padding:100px;
-  width:800px;
-  height:200px;
+
+.container{
   background-color:gray;
-  color:white;
+  width: 800px;
+  height: 40px;
+  margin: 10%;
+  color: white;
+
 }
 
-.third{
-  padding:100px;
-  width:800px;
-  height:150px;
-  background-color:darkblue;
-  color:white;
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 8vh;
+  font-family:sans-serif;
+  margin-left:10px;
 }
 
-.fourth{
-  padding:100px;
-  width:800px;
-  height:200px;
-  background-color:gray;
+.logo{
   color:white;
+  text-transform:uppercase;
+  letter-spacing:normal;
+  font-size:20px;
 }
 
-.fifth{
-  padding: 100px;
-  width:800px;
-  height:150px;
-  background-color:darkblue;
-  color:white;
+.nav-links{
+display: flex;
+background-color: gray;
+justify-content: space-around;
+width: 50%;
+color: white;
 }
